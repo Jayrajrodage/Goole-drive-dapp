@@ -4,14 +4,14 @@ Google Drive DApp is a decentralized application (DApp) built on the Ethereum bl
 
 # Prerequisites
 
-# # To use this DApp, you will need the following:
+## To use this DApp, you will need the following:
 
 1.An Ethereum wallet such as MetaMask
 
 2.Some ether to pay for transactions on the Ethereum network
 
 # Getting started
-# # To use this DApp, follow these steps:
+## To use this DApp, follow these steps:
 
 1.Clone this repository to your local machine.
 
