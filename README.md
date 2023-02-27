@@ -17,7 +17,7 @@ Google Drive DApp is a decentralized application (DApp) built on the Ethereum bl
 
 2.Install the dependencies by running npm install.
 
-3.Deploy the smart contract to the Ethereum network by running truffle migrate --reset.
+3.Deploy the smart contract to the Ethereum network 
 
 4.Start the web server by running npm start.
 
@@ -29,3 +29,11 @@ Google Drive DApp is a decentralized application (DApp) built on the Ethereum bl
 
 8.Retrieve images from IPFS using the links stored on the blockchain.
 
+# Google Drive DApp usages
+1.Storing an image on IPFS: To store an image on IPFS using the Google Drive DApp, click on the "Upload" button on the DApp's user interface. Select the image you want to upload and click on "Submit". The DApp will upload the image to IPFS and store the link to the image on the Ethereum blockchain.
+
+2.Retrieving an image from IPFS: To retrieve an image from IPFS using the Google Drive DApp, click on the "Retrieve" button on the DApp's user interface. Enter the link to the image that you want to retrieve and click on "Submit". The DApp will retrieve the image from IPFS and display it on the screen.
+
+3.Giving permission to another Ethereum address to view your images: To give permission to another Ethereum address to view your images using the Google Drive DApp, click on the "Permissions" button on the DApp's user interface. Enter the Ethereum address of the user you want to give permission to and click on "Submit". The DApp will update the permissions for the selected image on the Ethereum blockchain.
+
+4.Revoking permission for another Ethereum address to view your images: To revoke permission for another Ethereum address to view your images using the Google Drive DApp, click on the "Permissions" button on the DApp's user interface. Enter the Ethereum address of the user you want to revoke permission for and click on "Submit". The DApp will update the permissions for the selected image on the Ethereum blockchain.
